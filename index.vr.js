@@ -39,4 +39,4 @@ class sxswhack extends React.Component {
   }
 }
 
-AppRegistry.registerComponent('VideoSample', () => VideoSample);
+AppRegistry.registerComponent('sxswhack', () => sxswhack);
